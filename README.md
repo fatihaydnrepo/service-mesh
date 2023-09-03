@@ -1,4 +1,4 @@
-# Service Mesh :globe_with_meridians: :syringe:
+# Service Mesh :globe_with_meridians: :syringe: :globe_with_meridians:
 
 <p>
 
